@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.csv
+!test.csv
+!train.csv
+*.R
+!MiniProject1.R
