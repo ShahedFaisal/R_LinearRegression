@@ -26,6 +26,4 @@ The R-squared value of 0.8441 indicates that approximately 84.41% of the variabi
 
 ## Note
 
--   Ensure the presence of "train.csv" and "test.csv" datasets in the working directory for proper code execution.
-
-Refer to the source code in the repository for a detailed understanding of the implementation.
+Ensure the presence of "train.csv" and "test.csv" datasets in the working directory for proper code execution.
